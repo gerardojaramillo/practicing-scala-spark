@@ -1,0 +1,4 @@
+name,country,gender,age
+Michael,USA,Male,40
+Pam,USA,Female,32
+Andy,USA,Male,36
